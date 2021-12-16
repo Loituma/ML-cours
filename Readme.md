@@ -8,7 +8,7 @@ La première caméra est la vidéo de base, il faut regarder la vidéo d'en dess
 
 ### Puissance 4
 
-Dans ce dossier faire `npm start` et allez sur l'url `http://localhost:8080/#/jeu`
+Dans ce dossier faire `npm install i` et `npm start` et allez sur l'url `http://localhost:8080/#/jeu`
 
 IA pour joueur au jeux de Puissance4.
 
